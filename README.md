@@ -1,4 +1,4 @@
-# Codex Thread Workspace Manager
+# Codex Thread Manager
 
 Local Codex plugin for inspecting and re-homing Codex desktop threads across workspaces.
 
