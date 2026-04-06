@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.bak.*
+thread-resumer-backups.json
+rollout-backups/
