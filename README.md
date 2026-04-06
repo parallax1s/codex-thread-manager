@@ -55,6 +55,5 @@ Legacy resume workflow:
 
 ## Notes
 
-- The plugin metadata uses placeholder publisher URLs for local testing. Update them before publishing.
 - `fork_thread_to_workspace` is intentionally safety-gated for now. The current implementation reports that forking is not yet supported safely.
 - `deep_move` intentionally patches only the first rollout `session_meta.payload.cwd`. It does not rewrite historical tool output or other later path mentions.
